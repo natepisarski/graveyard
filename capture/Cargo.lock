@@ -1,0 +1,12 @@
+[root]
+name = "capture"
+version = "0.0.1"
+dependencies = [
+ "citadel 1.0.0 (git+https://github.com/natepisarski/citadel)",
+]
+
+[[package]]
+name = "citadel"
+version = "1.0.0"
+source = "git+https://github.com/natepisarski/citadel#edbb06d91b65acef07c641a8642a65c8f6d72979"
+

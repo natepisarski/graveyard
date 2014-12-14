@@ -1,0 +1,8 @@
+[package]
+
+name = "capture"
+version = "0.0.1"
+authors = ["nate"]
+
+[dependencies.citadel]
+git = "https://github.com/natepisarski/citadel"
