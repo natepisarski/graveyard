@@ -1,0 +1,7 @@
+[package]
+name = "kouti-server"
+version = "0.0.1"
+authors = ["Nate Pisarski <nathanpisarski@gmail.com>"]
+
+[dependencies]
+citadel = {git = "https://github.com/natepisarski/citadel.git"}

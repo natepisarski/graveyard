@@ -1,0 +1,12 @@
+[root]
+name = "kouti-server"
+version = "0.0.1"
+dependencies = [
+ "citadel 0.1.0 (git+https://github.com/natepisarski/citadel.git)",
+]
+
+[[package]]
+name = "citadel"
+version = "0.1.0"
+source = "git+https://github.com/natepisarski/citadel.git#978c98eabef700fd8569e04d0b543245b568872f"
+
