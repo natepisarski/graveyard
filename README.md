@@ -1,10 +1,13 @@
 # graveyard
-Here lie all of my promising young projects, cut short by either a fatal flaw in design or just a lack of caring from the developer. If, for whatever reason, parts from these programs are useful to you, you can have them. All of the code should be licensed under the 3-clause BSD license, so take what you will.
+We all have projects that didn't work out for some reason. Maybe you lost interest, maybe there was a fatal design flaw. Whatever the reason, when it happens to me, it will go in this repository.
+
+Take whatever you want from this project, and use it in whatever manor you see fit.
 
 ## Rules for graveyard
-For me to move a project to graveyard, some things have to hold true:
-* The program compiles
-* The program doesn't work any longer, or is too buggy to have its own repository
-For any code that doesn't meet those guidelines, it'll be thrown into the bone pit. Nothing there is guaranteed to work.
+These are generalizations, not laws. In general:
+* The programs here will compile, or run without any obvious syntax errors (if an interpreted language is used)
+* The program is probably outdated
+* The program probably has existing bugs that were never overcome
 
-
+# Bonepit
+The "Bonepit" is for random chunks of code I don't want anywhere else anymore. It could literally be anything, and it probably doesn't do anything useful or compile. It's like my Github's version of the `Lost+Found` folder in Linux systems.
